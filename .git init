@@ -1,0 +1,2 @@
+mkdir my-ansible-repo && cd my-ansible-repo.
+ansible-galaxy role init roles/webserver
