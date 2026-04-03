@@ -1,0 +1,6 @@
+metadataVersion: "1.0"
+version:
+  - "4.*": # Works on any EOS 4.x version
+    - my-custom-tool-1.0-1.noarch.rpm
+agentsToRestart:
+  - ConfigAgent
